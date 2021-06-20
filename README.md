@@ -6,7 +6,7 @@ In this project, the definiton of a DFA as proposed by Michael Sipser in _Introd
 * a finite set of states _Q_,
 * a finite set of input symbols called the alphabet _Σ_,
 * a transition function _δ_ : _Q_ × _Σ_ → _Q_
-* an initial or start state _q0 ∈ _Q_
+* an initial or start state _q0_ ∈ _Q_
 * a set of accept states _F_ ⊆ _Q_
 
 # Installation
